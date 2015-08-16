@@ -9,7 +9,7 @@ class Edge {
 		w = second;
 		weight = edgeweight;
 	}
-	
+	//test
 	public int getWeight() {
 		return weight;
 	}
