@@ -1,0 +1,6 @@
+*.index
+.metadata
+.recommenders
+jgrapht-0.9.0
+*/.settings
+*/bin
